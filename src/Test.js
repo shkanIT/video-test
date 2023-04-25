@@ -6,6 +6,7 @@ function Test(props) {
             <video width={'50%'}
                    height={'50%'}
                    autoPlay
+                   playsInline
                    muted
                    controls
                    loop
