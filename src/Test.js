@@ -9,7 +9,7 @@ function Test(props) {
                    muted
                    controls
                    loop
-                   src="video/hht1_ep01_le01_mini_video.mp4" />
+                   src="video/04_02_minisitcom.mp4" />
 
 
         </div>
